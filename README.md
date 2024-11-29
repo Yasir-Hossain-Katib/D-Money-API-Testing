@@ -15,11 +15,14 @@ D-Money is a robust and user-friendly finance transactional platform designed to
 
 <h1><b>Technology Used</b></h1>
  -Postman<br>
+ 
  -Newman<br>
+ 
  -NodeJS
 
  
 <h1>How to run?</h1>
+
  - Clone the project
     - ``` git clone https://github.com/Yasir-Hossain-Katib/DMoney-API-Testing-POSTMAN.git ```
  - PUT .env file
@@ -28,8 +31,10 @@ D-Money is a robust and user-friendly finance transactional platform designed to
     - ``` npm test ```
 
 <h1>User Documentation</h1> 
+
 For detailed API documentation and usage examples, visit the link below:<br>
 <a href="https://documenter.getpostman.com/view/28873131/2sAYBXCWzY">API Documentation</a>
   
 <h1>Reports</h1> 
+
 ![image](https://github.com/user-attachments/assets/8384ed15-e69e-46b6-8da6-2f7d2945e838)
