@@ -43,5 +43,6 @@ For detailed references, please visit the following links:
 - 🐞 **[Bug Report](https://docs.google.com/spreadsheets/d/1ydZVw0blwjiPkDJw-6pW04kC2q2ZybVAx9ABqimcbXQ/edit?usp=sharing)**  
   - Track reported bugs and their resolutions.
 
+<h1>Reports</h1>
 
 ![image](https://github.com/user-attachments/assets/8384ed15-e69e-46b6-8da6-2f7d2945e838)
