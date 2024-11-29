@@ -17,7 +17,6 @@ D-Money is a robust and user-friendly finance transactional platform designed to
  -Postman<br>
  
  -Newman<br>
- 
  -NodeJS
 
  
