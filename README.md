@@ -3,6 +3,7 @@
 D-Money is a robust and user-friendly finance transactional platform designed to streamline monetary operations for users such as Admins, Agents, Customers, and Merchants. It empowers users to perform secure and efficient financial transactions, including:
 
  -Deposits 
+ 
  -Withdrawals
  -Money Transfers
  -Payments
