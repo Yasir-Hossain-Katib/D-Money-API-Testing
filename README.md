@@ -30,11 +30,18 @@ D-Money is a robust and user-friendly finance transactional platform designed to
     - ``` npm i ```
     - ``` npm test ```
 
-<h1>User Documentation</h1> 
+# User Documentations
 
-For detailed API documentation and usage examples, visit the link below:<br>
-<a href="https://documenter.getpostman.com/view/28873131/2sAYBXCWzY">API Documentation</a>
-  
-<h1>Reports</h1> 
+For detailed references, please visit the following links:
+
+- 📄 **[API Documentation](https://documenter.getpostman.com/view/28873131/2sAYBXCWzY)**  
+  - Detailed API reference and usage examples.
+
+- ✅ **[API Test Cases](https://docs.google.com/spreadsheets/d/1qRsq8W9CnxFi4tM17Os-r-T8nm80i85otHCzIELp5b4/edit?gid=643214630#gid=643214630)**  
+  - Comprehensive test cases for API functionalities.
+
+- 🐞 **[Bug Report](https://docs.google.com/spreadsheets/d/1ydZVw0blwjiPkDJw-6pW04kC2q2ZybVAx9ABqimcbXQ/edit?usp=sharing)**  
+  - Track reported bugs and their resolutions.
+
 
 ![image](https://github.com/user-attachments/assets/8384ed15-e69e-46b6-8da6-2f7d2945e838)
