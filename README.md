@@ -1,4 +1,4 @@
-## D-Money: Finance Transactional Platform
+<h1><b>D-Money: Finance Transactional Platform</b></h1>
 
 D-Money is a robust and user-friendly finance transactional platform designed to streamline monetary operations for users such as Admins, Agents, Customers, and Merchants. The platform also ensures transparency through balance management and transaction statements, making it an ideal solution for managing day-to-day financial activities with accountability and ease of use. It empowers users to perform secure and efficient financial transactions, including:
 
@@ -13,11 +13,9 @@ D-Money is a robust and user-friendly finance transactional platform designed to
 
 
 
-<h1>Technology Used</h1>
- -POSTMAN
- 
- -NEWMAN
- 
+<h1><b>Technology Used</b></h1>
+ -POSTMAN<br>
+ -NEWMAN<br>
  -NodeJS
 
  
